@@ -1,0 +1,13 @@
+Material Name : CarPaint
+
+V1: Alpine White
+CarPaint Code: #FFFFFF
+BG: #878787
+
+V2: Black Sapphire Metallic
+CarPaint:#616161
+BG:#424242
+
+V3: Snapper Rocks Blue Metallic
+CarPaint: #00A3BB
+BG: #004F5B
